@@ -1,0 +1,26 @@
+{
+  "name": "@uoalib/uoa-lib-app",
+  "version": "1.1.11",
+  "main": "./index.js",
+  "dependencies": {
+    "amdefine": "^1.0.0",
+    "async": "^1.4.2",
+    "bluebird": "^3.4.1",
+    "body-parser": "^1.13.3",
+    "clean-css": "^3.4.8",
+    "express": "^4.13.3",
+    "gc-stats": "1.0.2",
+    "handlebars": "^3.0.3",
+    "handlebars-intl": "^1.1.2",
+    "influx": "^4.0.1",
+    "minimist": "^1.2.0",
+    "on-finished": "^2.3.0",
+    "socket.io": "1.6.0",
+    "uglify-js": "2.8.28",
+    "@uoalib/uoa-lib-cdn": "0.8.3",
+    "uuid": "^2.0.1",
+    "walk": "^2.3.9",
+    "winston": "^1.0.1",
+    "winston-logstash": "^0.3.0"
+  }
+}
